@@ -1,4 +1,4 @@
 # lol
-A Flask based chat application which uses SocketIO. 
-Ensures zero logging of data.
+A Flask based chat application which uses SocketIO. <br>
+Ensures zero logging of data. <br>
 http://chatlol.azurewebsites.net/
